@@ -11,7 +11,7 @@ Emotion CAPTCHA enhances security by using Speech Emotion Recognition (SER) to d
 
 ## Architecture
 The Inside Out architecture integrates multiple components to ensure secure and efficient emotion-based authentication. Below is a detailed breakdown of the architecture:
-
+![Image](https://github.com/user-attachments/assets/1fa365e4-152b-47c8-ba43-71a022dcbe29)
 
 
 ### Components
